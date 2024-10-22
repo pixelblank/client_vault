@@ -1,0 +1,20 @@
+# Par défaut, normalisation automatique des fins de ligne
+* text=auto
+
+# Force les scripts shell à utiliser LF
+*.sh text eol=lf
+
+# Force les fichiers Python à utiliser LF (important pour Odoo)
+*.py text eol=lf
+
+# Force les fichiers de configuration à utiliser LF
+*.conf text eol=lf
+*.cfg text eol=lf
+
+# Force les fichiers XML à utiliser LF (important pour Odoo)
+*.xml text eol=lf
+
+# Binaires (pas de conversion)
+*.png binary
+*.jpg binary
+*.pdf binary
