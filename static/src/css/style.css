@@ -1,0 +1,26 @@
+
+.oe_kanban_global_click .oe_kanban_details{
+    height: 100%;
+}
+.oe_kanban_global_click .oe_kanban_details .o_kanban_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: transparent;
+}
+
+.oe_kanban_global_click .o_kanban_image img{
+    max-width: 75%;
+}
+.o_button_icon.fa-file{
+    color: red;
+}
+.vault_kanban_document button.o_kanban_add_column,
+.vault_kanban_vault button.o_kanban_add_column,
+.vault_kanban_document .o_kanban_quick_add{
+    display: none;
+}
+.vault_kanban_document .o_kanban_header_title:hover .o_kanban_quick_add{
+    display: none;
+}

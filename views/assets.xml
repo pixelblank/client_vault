@@ -1,0 +1,5 @@
+<odoo>
+    <template id="assets_backend" inherit_id="web.assets_backend">
+            <link rel="stylesheet" type="text/css" href="./static/src/css/style.css"/>
+    </template>
+</odoo>
