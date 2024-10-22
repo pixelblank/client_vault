@@ -1,7 +1,10 @@
 # Client Vault
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+
+![Licence](https://img.shields.io/badge/licence-LGPL--3-blue.svg)
+![Version](https://img.shields.io/badge/version-2.0.0-green.svg)
 ![Odoo](https://img.shields.io/badge/odoo-16.0-purple.svg)
 ![Status](https://img.shields.io/badge/status-développement-orange)
+![Coverage](https://img.shields.io/codecov/c/github/pixelblank/client_vault)
 
 ## description
 
